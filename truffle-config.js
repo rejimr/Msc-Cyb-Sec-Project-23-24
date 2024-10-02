@@ -25,7 +25,7 @@ module.exports = {
       }
         }
   },
-  //plugins: ["truffle-plugin-verify"],
+  
   mocha: {
     reporter: 'eth-gas-reporter',
     reporterOptions: {
